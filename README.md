@@ -22,7 +22,7 @@ pip install nationstates
 
 clone the repository (or [download the repository](https://github.com/ducky4life/ns-cardbidder/archive/refs/heads/main.zip)):
 ```
-git clone https://github.com/ducky4life/ns-cardfinder.git
+git clone https://github.com/ducky4life/ns-cardbidder.git
 ```
 
 # Usage
