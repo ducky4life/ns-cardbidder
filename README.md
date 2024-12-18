@@ -46,6 +46,9 @@ git clone https://github.com/ducky4life/ns-cardbidder.git
 <a href="https://github.com/ducky4life/ns-cardfinder">
   <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-cardfinder&theme=algolia" />
 </a>
+<a href="https://github.com/ducky4life/ns-cardbidder">
+  <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-cardbidder&theme=algolia&" />
+</a>
 
 ## Having problems/have new ideas?
 
