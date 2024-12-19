@@ -2,6 +2,8 @@
 
 mass bids cards from a list of nations or card id (compatible with [cardfinder](https://github.com/ducky4life/ns-cardfinder) but it is not needed)
 
+a better version is [made by Thorn1000](https://github.com/Thorn1000/Mass-Place-Bids), but i made this for myself and for easy nation/card id bids instead of going through the queries and without manually editing the bids.csv file to match the format
+
 csv input works with any input as long as the first item is the nation name/id, i.e. your `nation,password` list should work when using nation mode
 
 # Installation
